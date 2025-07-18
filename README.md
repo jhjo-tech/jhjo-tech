@@ -2,17 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Keep%20Going&fontSize=90&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=HI!+There!+👋;커피와+함께+버그를+사냥합니다...;가끔은+버그가+저를+사냥하기도+합니다.;오늘도+즐겁게+코딩!+💻&font=Fira%20Code&center=true&width=500&height=100" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 <p align="center">
-  안녕하세요! 사용자 경험을 중시하는 앱 개발자입니다.<br/>
+  커피와 함께 버그를 사냥합니다. 가끔은 버그가 저를 사냥하기도 합니다.<br/>
   Swift와 Flutter를 활용하여 직관적이고 아름다운 애플리케이션을 만드는 일에 열정을 다하고 있습니다.<br/>
   새로운 기술을 배우고 동료들과 함께 성장하는 것을 즐깁니다.
 </p>
